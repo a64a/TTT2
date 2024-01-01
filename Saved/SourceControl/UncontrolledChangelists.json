@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/tictactoe.umap",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/x.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/grid.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/0.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/Blueprints/TTTPlayerControler.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/TTTgamemode.uasset",
+				"/Users/Shared/Epic Games/UE_5.3/Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
+				"/Users/Shared/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube.uasset",
+				"/Users/Shared/Epic Games/UE_5.3/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/tictactoe_BuiltData.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/onclick.uasset",
+				"/Users/kb/Documents/Unreal Projects/TicTacToe/Content/NewBlueprint.uasset"
+			]
+		}
+	]
+}
